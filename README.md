@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Anaya! 👋
 
-<!--
-**apackirisamy/apackirisamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a computer science graduate student passionate about data analytics, web deisgn and game programming.
 
-Here are some ideas to get you started:
+## 🌟 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Creating a video game(link to project)
+- 🌱 Learning: Python, C#, SQL 
+- 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/anaya-p/)
+
+## 🛠 Skills
+
+- **Languages:** Python, HTML/CSS, C#
+- **Tools:** Git, VS Code, Unity
+
+## 🚀 Projects
+
+- **In progress . . .**
+
+##  Fun Facts
+
+- 🌍 I know 6 languages
+- 🍳 I play the violin
+- 🎨 I love art and design
+  
+
