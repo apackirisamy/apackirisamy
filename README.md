@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a computer science graduate student passionat
 
 ## 🌟 Highlights
 
-- 🔭 Currently working on: Creating a video game(link to project)
+- 🔭 Currently working on: [Itch.io](https://apaxlegend.itch.io/caturday)
 - 🌱 Learning: Python, C#, SQL 
 - 📫 Reach me at: [Linkedin](https://www.linkedin.com/in/anaya-p/)
 
